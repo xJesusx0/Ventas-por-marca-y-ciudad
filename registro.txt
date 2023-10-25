@@ -1,0 +1,64 @@
+Cantidad de marcas: 3
+==============
+Nombre de las marcas y acumulado total
+Hp - 2.5E7
+Lenovo - 1.7E7
+Dell - 1.5E7
+=============
+Cantidad de ciudades: 3
+==============
+Nombre de las ciudades y acumulado total
+Barranquilla - 2.2E7
+Medellin - 1.8E7
+Bogota - 1.7E7
+Matriz con los datos recogidos
+==============
+6000000.0	9000000.0	1.0E7	
+7000000.0	6000000.0	4000000.0	
+9000000.0	3000000.0	3000000.0	
+
+==============
+Mayor y menor por tienda
+==============
+La venta mas alta de la tienda de Barranquilla Fue de 9000000.0
+La venta mas baja de la tienda de Barranquilla Fue de 6000000.0
+==============
+La venta mas alta de la tienda de Medellin Fue de 9000000.0
+La venta mas baja de la tienda de Medellin Fue de 3000000.0
+==============
+La venta mas alta de la tienda de Bogota Fue de 1.0E7
+La venta mas baja de la tienda de Bogota Fue de 3000000.0
+==============
+Total de ventas en pesos: 5.7E7
+==============
+Total de ventas en dolares: 13521.527695409797
+==============
+Total de ventas en euros: 12678.415331540562
+==============
+Cantidad de ventas mayores a 5000000
+==============
+La cantidad de ventas mayores a 5000000 de la tienda de Barranquilla es de 3
+La cantidad de ventas mayores a 5000000 de la tienda de Medellin es de 2
+La cantidad de ventas mayores a 5000000 de la tienda de Bogota es de 1
+Las ventas mayores a 5000000 en total fueron 6
+==============
+=============
+Promedio de ventas por ciudad
+==============
+El promedio de ventas en Barranquilla es de 7333333.333333333
+El promedio de ventas en Medellin es de 6000000.0
+El promedio de ventas en Bogota es de 5666666.666666667
+=============
+El promedio de ventas de Hp es de 8333333.333333333
+El promedio de ventas de Lenovo es de 5666666.666666667
+El promedio de ventas de Dell es de 5000000.0
+=============
+Matriz con las ventas por mes ordenadas de menor a mayor
+==============
+6000000.0	9000000.0	1.0E7	
+4000000.0	6000000.0	7000000.0	
+3000000.0	3000000.0	9000000.0	
+
+==============
+El promedio total es de 6333333.333333333
+==============
